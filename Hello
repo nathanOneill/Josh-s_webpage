@@ -1,1 +1,21 @@
-Hello
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/test.css" rel="stylesheet" title="text/css" />
+<title>this is the home page!</title>
+</head>
+
+<body>
+	<div class="wrapper" >
+	<header>
+	<center>
+	<hr />
+		<h1>Nathan O'Neill</h1>
+	<hr />
+		</center>
+		<p>Nothing worth while comes easy</p>
+	</header>
+	</div>
+</body>
+
+</html>
